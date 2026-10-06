@@ -59,5 +59,12 @@ A single-page flashcard app for studying Arabic vocabulary with Chinese translat
 | **Space** | Flip card |
 | **← / →** | Prev / next |
 
-License
-MIT
+---
+
+## Versioning
+This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
+
+All notable changes are documented in [CHANGELOG.md] (CHANGELOG.md)
+
+## License
+[MIT] (LICENSE)
