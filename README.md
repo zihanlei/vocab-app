@@ -3,7 +3,7 @@
 
 **Live: [vocarb.vercel.app](https://vocarb.vercel.app/)**
 
-A single-page flashcard app for studying Arabic vocabulary with Chinesetranslations. Vocabulary lives in Supabase (PostgreSQL), the site is hostedon Vercel, and new words are added inside the app — so the code isdeployed once and never touched again.
+A single-page flashcard app for studying Arabic vocabulary with Chinese translations. Vocabulary lives in Supabase (PostgreSQL), the site is hostedon Vercel, and new words are added inside the app — so the code isdeployed once and never touched again.
 
 ---
 
