@@ -35,6 +35,6 @@ Pre-save preview showing every recognized word (with pinyin and plural) plus a c
 
 **Deployment and Infrastructure:**
 - Hosted on Vercel with automatic deploys on every push to the production branch.
-- vercel.json rewrite serving the app at the root URL (vocarb.vercel.app).
+- App served at the root URL (vocarb.vercel.app) directly via index.html.
 - CDN dependencies only: supabase-js, pinyin-pro, Google Fonts (Amiri, Noto Serif SC).
-- README with full setup guide (Supabase + Vercel) and MIT license.
+- README with full setup guide (Supabase + Vercel), usage guide, and MIT license.
