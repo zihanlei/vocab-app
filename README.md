@@ -22,7 +22,7 @@ A single-page flashcard app for studying Arabic vocabulary with Chinese translat
 ## Tech stack
 | Layer | Tool |
 | :--- | :--- |
-| **Frontend** | Single-file static HTML/CSS/JS (`vocab-app.html`) |
+| **Frontend** | Single-file static HTML/CSS/JS (`index.html`) |
 | **Database** | Supabase (PostgreSQL + row-level security) |
 | **Auth** | Supabase email/password |
 | **Hosting** | Vercel |
@@ -64,7 +64,7 @@ A single-page flashcard app for studying Arabic vocabulary with Chinese translat
 ## Versioning
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-All notable changes are documented in [CHANGELOG.md] (CHANGELOG.md)
+All notable changes are documented in [CHANGELOG.md](https://github.com/zihanlei/vocab-app/blob/main/CHANGELOG.md)
 
 ## License
-[MIT] (LICENSE)
+[MIT](https://github.com/zihanlei/vocab-app/blob/main/LICENSE)
