@@ -3,18 +3,18 @@
 
 **Live: [vocarb.vercel.app](https://vocarb.vercel.app/)**
 
-A single-page flashcard app for studying Arabic vocabulary with Chinese translations. Vocabulary lives in Supabase (PostgreSQL), the site is hostedon Vercel, and new words are added inside the app — so the code isdeployed once and never touched again.
+A single-page flashcard app for studying Arabic vocabulary with Chinese translations. Vocabulary lives in Supabase (PostgreSQL), the site is hosted on Vercel, and new words are added inside the app — so the code is deployed once and never touched again.
 
 ---
 
 ## Features
-- **Bulk import** — paste a weekly word list (Chinese + Arabic per line); theparser splits each line, extracts ج. plural forms, and auto-generates pinyin
+- **Bulk import** — paste a weekly word list (Chinese + Arabic per line); the parser splits each line, extracts ج. plural forms, and auto-generates pinyin
 - **Sets** — organize words into sets (Week 12, Week 13, …) or review everything
-- **Both directions** — CN → AR or AR → CN; pinyin shown above Chinese, fullharakat on the Arabic
+- **Both directions** — CN → AR or AR → CN; pinyin shown above Chinese, full harakat on the Arabic
 - **Keyboard-first** — Space to flip, arrow keys to navigate
 - **Shuffle** for randomized review
 - **Word bank** — browse and delete entries
-- **Private** — email/password auth via Supabase, with row-level security onall data
+- **Private** — email/password auth via Supabase, with row-level security on all data
 - **Responsive** — works on desktop and mobile
 
 ---
