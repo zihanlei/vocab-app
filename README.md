@@ -64,7 +64,7 @@ A single-page flashcard app for studying Arabic vocabulary with Chinese translat
 ## Versioning
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-All notable changes are documented in [CHANGELOG.md](https://github.com/zihanlei/vocab-app/blob/main/CHANGELOG.md)
+All notable changes are documented in [CHANGELOG.md](https://github.com/zihanlei/vocarb/blob/main/CHANGELOG.md)
 
 ## License
-[MIT](https://github.com/zihanlei/vocab-app/blob/main/LICENSE)
+[MIT](https://github.com/zihanlei/vocarb/blob/main/LICENSE)
